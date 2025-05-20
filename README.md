@@ -2,7 +2,7 @@
 <hr>
   <img align="right" height="150"  src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
  
-  - 📍 I'm living in Paraná, Brazil. 
+  - 📍 I'm living in Toronto, Brazil. 
   
   - 💻 This profile it's testing some projects and to do deploy.
   
@@ -30,8 +30,6 @@
   ##  🚀 Languages and Tools:
 
 <div align="center">
-    <img src="img/JAVA.png" alt="Java" height="60px">
-  <img src="img/SPRINGBOOT.png" alt="Spring Boot" height="60px" >
   <img src="img/ANGULAR.png" alt="Angular JS" height="60px">
   <img src="img/HTML.png" alt="HTML" height="60px">
   <img src="img/CSS.png" alt="CSS" height="60px">
